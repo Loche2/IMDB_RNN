@@ -1,0 +1,2 @@
+# IMDB_RNN
+使用PyTorch框架构建循环神经网络RNN对IMDB数据集实现情感二分类
